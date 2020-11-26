@@ -1,0 +1,79 @@
+body {
+
+	background-color: white;
+	color: rgb(30, 30, 30);
+	font-family: 'Lora', serif;
+}	
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+}
+h1 {
+	color: #34626C;
+	font-size: 32px;
+	font-weight: 900;
+}
+
+h2 {
+	color: #16697A;
+	font-size: 40px
+	font-weight: lighter;
+	font-weight: 500;
+	
+}
+
+a {
+	font-family: "Roboto", sans-serif;
+	text-decoration: none;
+	color: #6B72E1;
+	font-weight: 600;
+	font-size: 16px;
+}	
+a: hover {
+	color: black;
+}
+
+div .card-white{
+	border-top: 10px;
+	border-bottom: 10px;
+	border-left: 10px;
+	border-right: 10px;
+	text-align: center;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 10px;
+	padding: 15px;
+	margin: 15px;
+}
+.container {
+	padding: 60px auto;
+	align-items: center;
+	margin: 10px auto;
+	text-align: center;
+	display: center;
+	width: 700px;
+}
+ 
+
+img {
+	border-radius: 50%;
+}
+
+li {
+	text-decoration: none;
+	list-style: none;
+	display: inline;
+}
+
+ul {
+	padding-left: 0px;
+}
+
+.btn-blue {
+	background-color: #6B72E1;
+	color: white;
+	padding: 7px 10px;
+	border-radius: 4px;
+}
+.list-inline a {
+	list-style: none;
+	font-size: 40px;
+}
